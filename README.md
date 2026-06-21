@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Java DSA Journey
+## 🚀 Java DSA Journey
 
 **Welcome to my Java Data Structures and Algorithms (DSA) repository.**  
 *This repository contains my daily DSA practice solutions, problem-solving approaches, and learning progress using Java.*
